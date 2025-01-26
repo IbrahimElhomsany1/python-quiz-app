@@ -13,5 +13,5 @@ This is a simple Python desktop application for taking quizzes. The application 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-quiz-app.git
+   git clone https://github.com/IbrahimElhomsany1/python-quiz-app.git
 
